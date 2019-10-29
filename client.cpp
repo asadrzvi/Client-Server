@@ -240,6 +240,7 @@ int main(int argc, char *argv[])
         else
             printword(cmd[i].symbol);
     }
+    cout<<"Hello World"<<endl;
     return 0;
 }
 Client
